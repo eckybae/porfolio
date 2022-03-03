@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="stylesheet.css" type="text/css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Spectral&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="#home">home</a></11>
+        <li><a href="work">work</a></11>
+        <li><a href="#about">about</a></11>
+        <li><a href="#resume">resume</a></11>
+      </ul>
+    </nav>
+    <div id="home" class="home">
+      <h1>Rebecca Santos</h1>
+      <h4>Computer Science</h4>
+    </div>
+    <div id="work" class="work">
+      <h2 class="header">work</h2>
+      <a href="#" class="project"><ing class="project-image" src="https://ibb.co/rsNVXvG" alt="project"></a>
+        <a href="#" class="project"><ing class="project-image" src="https://ibb.co/rsNVXvG" alt="project"></a>
+          <a href="#" class="project"><ing class="project-image" src="https://ibb.co/rsNVXvG" alt="project"></a>
+    </div>
+    <div id="about" class="about">
+      <h2 classes="header">about</h2>
+      <p>Hey I'm Becky</p>
+      <a href="#" class="button resume-button" target="_blank">view my resume</a>
+    </div>
+          <footer><p>Created for CSGirls</p></footer>
+  </body>
+</html>
