@@ -1,0 +1,111 @@
+* {
+  margin:0;
+  padding:0;
+}
+
+nav ul {
+  background: #7DCE82;
+  text-align: right;
+  position: relative;
+  witdth: 100%;
+  font-size: 20px;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 20px;
+}
+
+nav ul li a {
+  color: #482728;
+  text-decoration: none;
+}
+
+h1 {
+  font-family: "Alfa Slab One", sans-serif;
+  font-size: 62px
+}
+
+h4 {
+  font-family: "Spectral", sans-serif;
+  font-weight: normal;
+  font-size: 20px;
+}
+
+home {
+  top: 0;
+  background: #9684A1;
+  min-height: 55px;
+  padding-top: 45px;
+}
+
+body {
+  font-family: "Spectral", sans-serif;
+  text-align: center;
+  color: #065143;
+}
+
+.work .header {
+  font-family: "Spectral", sans-serif;
+  margin: 50px;
+  font-weight: bold;
+  text-align: left;
+  font-size: 30px;
+}
+
+.project {
+  display: inline-block;
+  overflow: hidden;
+  height: 210px;
+  width: 280px;
+  margin: 50px;
+  border-radius: 25px;
+}
+
+.project-image {
+  width: 100%;
+  height: 210px;
+}
+
+.about {
+  top: 0;
+  background: #C18C5D;
+  padding-top: 20px;
+}
+
+.about header {
+  font-family: "Spectral", sans-serif;
+  margin: 50px;
+  font-weight: bold;
+  text-align: left;
+  font-size: 30px;
+}
+
+.about p {
+  padding: 0px 100px 60px 100px;
+  font-size: 22px;
+}
+
+.button {
+  background-color: #482728;
+  border: none;
+  color: #DAFEB7;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 40px 20px;
+}
+
+.resume-button {
+  border-radius: 8px;
+  margin: 20px auto 90px;
+}
+
+footer {
+  padding: 20px;
+  color: #482728;
+  line-height: 40px;
+}
